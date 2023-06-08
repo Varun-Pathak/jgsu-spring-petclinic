@@ -73,7 +73,7 @@
 <dependency>
     <groupId>org.sonarsource.scanner.maven</groupId>
     <artifactId>sonar-maven-plugin</artifactId>
-    <version>3.3.0.603</version>
+    <version>3.2</version>
 </dependency>
 
     <!-- Databases - Uses H2 by default -->
@@ -253,7 +253,7 @@
       <plugin>
         <groupId>org.sonarsource.scanner.maven</groupId>
         <artifactId>sonar-maven-plugin</artifactId>
-        <version>3.3.0.603</version>
+        <version>3.2</version>
       </plugin>
     </plugins>
   </build>
